@@ -1,1 +1,7 @@
+This directory contains four python scripts. Data files are also contained within.
 
+Python scripts
+-- Which is the predominant s at different ages with use of age bins - Finalized version (figure S7) .ipynb
+-- Predicting passengers in healthy blood with age binning - Finalized version (Figure 2A, 2B, S8, S9, S16-18).ipynb
+-- Bolton correlation between nonsyn vs syn - Finalized version (figure 2C, S10B).ipynb
+-- Drift-selection boundary in healthy blood - Finalized version (figure S11).ipynb: within 'Drift-selection boundary'
