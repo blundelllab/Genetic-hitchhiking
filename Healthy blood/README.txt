@@ -1,4 +1,4 @@
-This directory contains five python scripts. Data files are also contained within.
+This directory contains 6 python scripts. Data files are also contained within.
 
 Python scripts
 -- Infer DFE parameters from Bolton nonsynonymous variant data - Finalized version (figure S5, S16-18A) .ipynb
