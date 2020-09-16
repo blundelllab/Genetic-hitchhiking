@@ -15,5 +15,5 @@ Source of data files
 
 Python codes
 -- Simulation validation - finalized version (figure S1, S2, S3, S4, 1D, 1D inset).ipynb
--- Simulated correlation plots - Finalized version (figure S10 A, B, S17A ) .ipynb
+-- Simulated correlation plots - Finalized version (figure S14A, S18A) .ipynb
 
