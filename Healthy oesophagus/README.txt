@@ -6,5 +6,5 @@ There are 3 Jupyter notebook files used to produce figures for the oesophageal a
 
 
 Data for 
-1) 
+1) Martincorena_oesophagus_VAF_merged.csv, Martincorena_oesophagus_VAF.csv
 2) Data files for clonal interference
