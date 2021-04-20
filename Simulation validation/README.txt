@@ -1,9 +1,9 @@
 This folder consists of R codes for simulations, data files and python codes for plotting figures.
 
 Data files
--- Data file for S1 S2 S4: data files for 'Simulation validation - finalized version (figure S1, S2, S3, S4, 1D, 1D inset).ipynb'
--- validation of drift theory lower uben lower dev rate: data files for 'Simulation validation - finalized version (figure S1, S2, S3, S4, 1D, 1D inset).ipynb'
--- correlation plots : data files for 'Simulated correlation plots - Finalized version (figure S10 A, B, S17A ) .ipynb'
+-- Data file for S1 S2 S4: data files for 'Simulation validation - Finalized version (figure S1, S2, S3, S4, 1D, 1D inset).ipynb'
+-- validation of drift theory lower uben lower dev rate: data files for 'Simulation validation - Finalized version (figure S1, S2, S3, S4, 1D, 1D inset).ipynb'
+-- correlation plots : data files for 'Simulated correlation plots - Finalized version 2021.ipynb'
 
 Source of data files
 -- MASTER CODE - Finalized version.R: source of 'Data file for S1 S2 S4'
@@ -14,6 +14,6 @@ Source of data files
 -- MASTER CODE correlation check Martincorena ages parameters.R : source of 'correlation plots'
 
 Python codes
--- Simulation validation - finalized version (figure S1, S2, S3, S4, 1D, 1D inset).ipynb
--- Simulated correlation plots - Finalized version (figure S14A, S18A) .ipynb
+-- Simulation validation - Finalized version (figure S1, S2, S3, S4, 1D, 1D inset).ipynb
+-- Simulated correlation plots - Finalized version 2021.ipynb
 
